@@ -11,7 +11,7 @@ class Quaternion
 {
 private:
 	//creating private ints used within the class.
-	T r1, i1, j1, k1, r, i, j, k;
+	T w1, i1, j1, k1, w, i, j, k;
 
 
 public:
