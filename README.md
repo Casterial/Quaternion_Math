@@ -9,4 +9,4 @@ This code allows the user to create their own variables for quaternions
 
 Math with solutions: q1+q2, q1-q2, q1*q2
 
-This is a great tool for using to solve problems with quaternions for high ed math courses.
+This is a great tool for using to solve problems with quaternions for high level math courses, or simply to understand quaternions.
