@@ -36,7 +36,7 @@ template <class T>
 std::tuple<T, T, T, T> Quaternion<T>::qAddition(std::tuple<T, T, T, T> q1, std::tuple<T, T, T, T> q2)
 {
 	//get<n> (quaternion Name) gives the values like an array.
-	T r1 = std::get<0>(q1);
+	T w1 = std::get<0>(q1);
 	T i1 = std::get<1>(q1);
 	T j1 = std::get<2>(q1);
 	T k1 = std::get<3>(q1);
